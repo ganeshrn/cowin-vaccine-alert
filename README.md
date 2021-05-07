@@ -31,6 +31,6 @@ https://www.twilio.com/docs/whatsapp/quickstart/python
 
 ```
 git clone https://github.com/ganeshrn/cowin-vaccine-alert
-cat cowin-vaccine-alert
+cd cowin-vaccine-alert
 python cowin.py 
 ```
